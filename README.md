@@ -31,3 +31,4 @@ A simple and effective text summarization tool built in Python. It allows users 
 git clone https://github.com/yourusername/text-summarizer.git
 cd text-summarizer
 pip install -r requirements.txt
+python summarizer.py
